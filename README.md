@@ -1,3 +1,3 @@
 # krazyg
 
-Pronounced Crazy-G, this is an implemtnation of KZG polynomial commitment using blstrs crate for the elliptic curve pairing.
+Pronounced Crazy-G, this is an implementation of the KZG polynomial commitment using the blstrs package for the elliptic curve pairing.
